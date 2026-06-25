@@ -3,7 +3,7 @@
 因数で指定した画像の左右反転画像を生成するPython3で動作するプログラムです。
 
 ## 2.ソースコード
-```
+```Python
 # このプログラムはPython３用です。
 # あらかじめ　pip install pillow をインストールしておきます。
 from PIL import Image
@@ -27,19 +27,20 @@ img_flip.save(output_image)
 
 ### 3.1.実行例
 ・コマンドラインフォーマット
-```
+```Python
 　Python3 flip.py <input_image_path> <output_image_path>
 ```
 ・利用例
-```
-Python3 flip.py input.jpg output.jpg
+```Python
+　Python3 flip.py input.jpg output.jpg
 ```
 
 ### 3.2出力結果
 以下のように入力画像の左右反転画像が出力されます。
 | 入力画像(input.jpg) | 出力画像(output.jpg) |
 | --- | --- |
-| ポチ | 犬 |
+| <img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/836b2267-0b3a-4d5d-bbf2-ecca757e3a7a" /> | <img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/48641106-c9ae-4857-8d9d-973eeea29d59" /> 
+
 
 以上
 　
