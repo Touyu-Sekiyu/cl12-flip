@@ -32,7 +32,7 @@ Python3 flip.py <input_image_path> <output_image_path>
 ```
 ・利用例
 ```Python
-　Python3 flip.py input.jpg output.jpg
+Python3 flip.py input.jpg output.jpg
 ```
 
 ### 3.2出力結果
