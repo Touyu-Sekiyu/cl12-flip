@@ -23,7 +23,7 @@ img_flip = img.transpose(Image.FLIP_LEFT_RIGHT)
 img_flip.save(output_image)
 
 ```
-##３.使い方
+##3.使い方
 
 ###3.1.実行例
 ・コマンドラインフォーマット
