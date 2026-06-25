@@ -5,7 +5,7 @@
 ## 2.ソースコード
 ```Python
 # このプログラムはPython３用です。
-# あらかじめ　pip install pillow をインストールしておきます。
+# あらかじめ　pip install pillow で pillow をインストールしておきます。
 from PIL import Image
 import sys
 
